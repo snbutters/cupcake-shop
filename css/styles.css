@@ -7,19 +7,23 @@
 .best {
   background-color: rgb(243, 187, 243);
   color:navy;
-  padding: 40px;
-  font-size: 18px;
+  padding: 30px;
+  font-size: 20px;
   font-weight: bold;
   font-style: italic;
 }
 
 .image {
+  float: left;
   width: 25%;
   height: 25%;
+  padding: 10px;
 }
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   font-style: italic;
   color:navy;
+  padding-left: 15px;
+  padding-top: 15px;
 }
