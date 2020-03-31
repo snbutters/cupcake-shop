@@ -1,0 +1,25 @@
+.flashy {
+  color: rgb(82, 8, 124);
+  font-weight: bold;
+  font-style: italic;
+}
+
+.best {
+  background-color: rgb(243, 187, 243);
+  color:navy;
+  padding: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.image {
+  width: 25%;
+  height: 25%;
+}
+
+p {
+  font-size: 18px;
+  font-style: italic;
+  color:navy;
+}
